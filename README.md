@@ -13,6 +13,7 @@
   <a href="https://www.farni.dev"><img src="https://img.shields.io/badge/farni.dev-111111?style=for-the-badge&logo=dev.to&logoColor=white" alt="farni.dev" /></a>
   <a href="https://linkedin.com/in/yousseffarni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@youssef-farni"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/yousseffarni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:yousseffarni@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -58,6 +59,9 @@ A social-commerce marketplace for Morocco. You browse products in a feed like In
 
 🌐 **Launching at [souqelhad.com](https://souqelhad.com)**
 
+<a href="https://www.instagram.com/souqelhad"><img src="https://img.shields.io/badge/@souqelhad-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Souq El Had on Instagram" /></a>
+<a href="https://www.youtube.com/@souqelhad"><img src="https://img.shields.io/badge/@souqelhad-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Souq El Had on YouTube" /></a>
+
 </td>
 <td width="50%" valign="top" align="center">
 
@@ -80,7 +84,10 @@ An open-world action game set in **Casablanca**. The streets come from real map 
 
 `Unreal Engine 5` `C++` `Unity` `C#` `Blender` `Python`
 
-📺 **Devlogs coming on [YouTube](https://www.youtube.com/@youssef-farni)**
+📺 **Follow the devlogs**
+
+<a href="https://www.youtube.com/@darbeidacity"><img src="https://img.shields.io/badge/@darbeidacity-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Dar Beida City on YouTube" /></a>
+<a href="https://www.instagram.com/darbeidacity"><img src="https://img.shields.io/badge/@darbeidacity-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Dar Beida City on Instagram" /></a>
 
 </td>
 </tr>
