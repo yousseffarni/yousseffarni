@@ -12,7 +12,7 @@
   <a href="https://www.yousseffarni.com"><img src="https://img.shields.io/badge/Portfolio-yousseffarni.com-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.farni.dev"><img src="https://img.shields.io/badge/farni.dev-111111?style=for-the-badge&logo=dev.to&logoColor=white" alt="farni.dev" /></a>
   <a href="https://linkedin.com/in/yousseffarni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@almojtahid-tech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@youssef-farni"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="mailto:yousseffarni@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -80,7 +80,7 @@ An open-world action game set in **Casablanca**. The streets come from real map 
 
 `Unreal Engine 5` `C++` `Unity` `C#` `Blender` `Python`
 
-📺 **Devlogs coming on [YouTube](https://www.youtube.com/@almojtahid-tech)**
+📺 **Devlogs coming on [YouTube](https://www.youtube.com/@youssef-farni)**
 
 </td>
 </tr>
