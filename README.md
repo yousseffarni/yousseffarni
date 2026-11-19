@@ -57,8 +57,9 @@ A social-commerce marketplace for Morocco. You browse products in a feed like In
 
 `Next.js` `React` `TypeScript` `Tailwind` `Laravel` `MySQL` `Filament`
 
-🌐 **Launching at [souqelhad.com](https://souqelhad.com)**
+🌐 **[souqelhad.com](https://souqelhad.com)**: coming-soon page live, app launching soon
 
+<a href="https://souqelhad.com"><img src="https://img.shields.io/badge/souqelhad.com-24357E?style=flat-square&logo=googlechrome&logoColor=white" alt="souqelhad.com" /></a>
 <a href="https://www.instagram.com/souqelhad"><img src="https://img.shields.io/badge/@souqelhad-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Souq El Had on Instagram" /></a>
 <a href="https://www.youtube.com/@souqelhad"><img src="https://img.shields.io/badge/@souqelhad-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Souq El Had on YouTube" /></a>
 
